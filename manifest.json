@@ -1,0 +1,15 @@
+{
+  "name": "Pedido de Material de Ostomia",
+  "short_name": "Ostomia",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#064030",
+  "theme_color": "#0F6E56",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
